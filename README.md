@@ -9,3 +9,5 @@ And a mouser basket for the parts [HERE](https://au.mouser.com/ProjectManager/Pr
 
 
 If you find this usefull and would like to pay it forward you can do so [HERE](https://www.paypal.com/donate?hosted_button_id=XGRSY3M6V94R4)
+
+![Red Video Equations](https://github.com/cfoge/Video_EQ/blob/main/images/videq.JPG)
