@@ -7,6 +7,8 @@ and a *build guide* [here](https://docs.google.com/document/d/1xhPcSpx6gMqP5NIOa
 
 And a mouser basket for the parts [HERE](https://au.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=c726d60491)
 
+3D printed case files can be found here:
+[3d printed cases](https://www.thingiverse.com/thing:4983079)
 
 If you find this usefull and would like to pay it forward you can do so [HERE](https://www.paypal.com/donate?hosted_button_id=XGRSY3M6V94R4)
 
