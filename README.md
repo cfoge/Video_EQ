@@ -9,6 +9,8 @@ and a *build guide* [here](https://docs.google.com/document/d/1xhPcSpx6gMqP5NIOa
 
 And a mouser basket for the parts [HERE](https://au.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=582bb2d6cd) 
 
+When building be sure to look at the interactive BOM (it is the HTML file above)
+
 3D-printed case files can be found here:
 [3d printed cases](https://www.thingiverse.com/thing:4983079)
 
