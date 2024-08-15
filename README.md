@@ -7,7 +7,7 @@ This repo is a source for firmware and programming of the *Video Equations* vide
 It also contains the BOM for the original Standalone version.
 and a *build guide* [here](https://docs.google.com/document/d/1xhPcSpx6gMqP5NIOa-hU4GBMXX1HIhc-GGcmYRfW-Dc/edit?usp=sharing)
 
-And a mouser basket for the parts [HERE](https://au.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=582bb2d6cd) 
+And a mouser basket for the parts [HERE]([https://au.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=582bb2d6cd](https://au.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=cdce1e85b3)) 
 
 When building be sure to look at the interactive BOM (it is the HTML file above)
 
