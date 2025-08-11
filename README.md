@@ -7,7 +7,8 @@ This repo is a source for hardware, firmware and programming of the *Video Equat
 It also contains the BOM for the original Standalone version.
 and a *build guide* [here](https://docs.google.com/document/d/1xhPcSpx6gMqP5NIOa-hU4GBMXX1HIhc-GGcmYRfW-Dc/edit?usp=sharing)
 
-And a mouser basket for the parts [HERE](https://au.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=cdce1e85b3) 
+And a mouser basket for the parts [HERE](https://au.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=cdce1e85b3)  
+If any parts are out of stock, check this basket: [HERE](https://au.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=809015eedc)
 
 When building be sure to look at the interactive BOM (it is the HTML file above)
 
