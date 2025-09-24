@@ -1,6 +1,9 @@
 # Video Equations Video Synthisizer 
 
 This repo is a source for hardware, firmware and programming of the *Video Equations* video synth by CFOGE
+
+[VIDEO OF THE SYNTH IN ACTION](https://youtu.be/mjo5Ck8bLms?si=FF00txjyV0ThEeUl)
+
 ## currently for sale on ETSY [here](https://www.etsy.com/au/listing/1103194946/video-equations-video-synthesizer-pcb)
 *NOTE IF YOU BUY A KIT OR PCB FROM ME YOU DO NOT NEED TO PROGRAM THE ANYTHING! THE ROM CHIPS COME PROGRAMED!
 
